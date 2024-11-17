@@ -7,6 +7,4 @@ SORU:Ubuntu'da Python sürümlerinin çakışmasını engelleyen platformlar nel
 
 3.Docker: Python uygulamalarını konteynerler içinde çalıştırarak, ortam ve bağımlılık sorunlarını izole edebilirsiniz. Her projeyi kendi konteynerinde çalıştırmak, sürüm ve bağımlılık çakışmalarını önler.
 
-4.Docker: Python uygulamalarını konteynerler içinde çalıştırarak, ortam ve bağımlılık sorunlarını izole edebilirsiniz. Her projeyi kendi konteynerinde çalıştırmak, sürüm ve bağımlılık çakışmalarını önler.
-
  MUSTAFA KÜÇÜK 
